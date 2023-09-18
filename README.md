@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelbaptista13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&border_radius=1em" alt="rafaelbaptista13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelbaptista13&show_icons=true&locale=en" alt="rafaelbaptista13" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelbaptista13&show_icons=true&hide_border=true&layout=compact&&count_private=true&theme=radical&langs_count=8&border_radius=1em%22/%3E" alt="rafaelbaptista13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbaptista13&" alt="rafaelbaptista13" /></p>
